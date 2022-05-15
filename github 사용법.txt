@@ -1,0 +1,9 @@
+
+git hub 사용법
+
+1. root 연결
+  1) 디렉토리 지정하고 - 우측 클릭 - git bash here 
+  2) command 창 - git init 타이핑 : 폴더 안에 .git 폴더 생성
+  3) git remote add origin + 레포지트리 주소 
+
+정리중
